@@ -1,0 +1,27 @@
+#Header{
+    background-color: darkgreen;
+    color: white;
+    border: 2px solid black;
+}
+#Header1{
+    background-color: lightgreen;
+    border: 2px solid black;
+}
+#image{
+    background-color:orange;
+    border: 2px solid black;
+}
+.india{
+ border: 2px solid black;
+    background-color:navy;
+color: white;
+}
+.indo{
+    background-color: rgb(105, 6, 105);
+color: white;
+border: 2px solid black;
+}
+#final{
+    border: 2px solid black;
+    background-color: plum;
+}

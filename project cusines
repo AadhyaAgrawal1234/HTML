@@ -1,0 +1,74 @@
+ <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+       <link rel="stylesheet" href="styleCusine.css">
+      <!--1nd Main Header-->
+        <div id="Header1">
+             <h1 id="Header">  Indian Cusines </h1>
+             <p>Indian cuisine is a diverse and flavorful culinary tradition encompassing a wide range of regional and traditional dishes. It's known for its use of spices, herbs, and locally available ingredients, resulting in a rich tapestry of flavors. The cuisine is influenced by various factors like climate, culture, and religious beliefs, leading to both vegetarian and non-vegetarian options</p>
+            </div>
+          <div id="image">
+            <img src="Screenshot 2025-06-03 165737.png" alt=" width= 200">
+     <img src="Screenshot 2025-06-03 165753.png" alt=" width= 200">
+          </div>
+<!--Navbar 1-->
+<div id="final" >
+   <H2 class="indo">Different Indian Cuisines</H2>
+  <h3 class="indo">Regional Cuisines:</h3>
+   <ol>
+ <li>North Indian Cuisine</li>
+ <li>South-Indian Cuisine</li>
+<li>East Indian Cuisine </li>
+<li>West Indian Cuisine</li>
+</ol>
+<H3 class="indo">Explaination on the above 4 Cusines:</H3>
+<b class="india">North Indian Cuisine:</b><br>
+<img src="north.png" alt="width = 400">
+<p>Known for its rich curries, thick sauces, and use of tandoor ovens for grilling and baking. Examples include tandoori chicken, chana masala, and dal makhani. </p>
+<b  class="india">South-Indian Cuisine:</b><br>
+<img src="south.png" alt="width = 400">
+<p>Features coconut milk-based flavor profiles, herbs like lemongrass and curry leaves, and a variety of rice dishes like idli, dosa, and sambhar. </p>
+<b class="india">East Indian Cuisine:</b><br>
+<img src="east.png" alt="width = 800">
+<p>Varies between Bihar, Bengal, and northeast states, with dishes like fish curry, chicken, and vegetarian options. </p>
+<b class="india">West Indian Cuisine:</b><br>
+<img src="west.png" alt="width = 400">
+<p>Includes cuisines from regions like Gujarat, Maharashtra, and Goa, with dishes like seafood, vegetarian options, and Portuguese-influenced dishes. </p>
+<h3 class="indo">Beyond the regional divisions, Indian cuisine also encompasses: </h3>
+    <ol>
+<li>Mughlai Cuisine</li>
+<li>Punjabi Cuisine</li>
+<li>Awadhi Cuisine</li>
+<li>Bihari Cuisine</li>
+<li>Kashmiri Cuisine</li>
+<li>Indian Chinese Cuisine</li>
+(and many more)
+</ol>
+<H3 class="indo">Explaination on the above 6 Cusines:</H3>
+<b class="india">Mughlai Cuisine: </b><br>
+<img src="mughali.png" alt="width = 400">
+<p> A fusion style influenced by Persian, Middle Eastern, and Turkish culinary traditions. </p>
+<b>Awadhi Cuisine:</b><br>
+<img src="awandi.png" alt="width = 400">
+<p> A refined cuisine from Lucknow, known for its slow-cooked dishes and use of spices. </p>
+<b class="india">Indian Chinese Cuisine:</b><br>
+<img src="indo-chinese.png" alt=" width = 400">
+<p>Known for its unique fusion of Chinese and Indian flavors, using Indian spices and ingredients in traditional Chinese dishes. </p>
+<b class="india">Kashmiri Cuisine:</b><br>
+<img src="kashmiri.png" alt=" width = 400">
+<p>Known for its rich, aromatic flavors and is deeply influenced by Persian, Central Asian, and Mughal culinary traditions</p>
+<b class="india">Bihari Cuisine:</b><br>
+<img src="bihari.png" alt="width = 1000 height= 1000">
+<p>Known for its rich and diverse flavors, influenced by the region's geography and cultural heritage.</p>
+<b class="india">Punjabi Cuisine:</b><br>
+<img src="punjabi.png" alt=" width = 400">
+<p>Known for its rich and flavorful dishes, often characterized by bold spices, creamy textures, and smoky tandoori preparations. </p>
+</div>
+    </body>
+    </html>
+    
