@@ -8,8 +8,8 @@
     <body>
        <link rel="stylesheet" href="styleCusine.css">
       <!--1nd Main Header-->
-        <div id="Header1">
-             <h1 id="Header">  Indian Cusines </h1>
+ <h1 id="Header">  Indian Cusines </h1>
+      <div id="Header1">
              <p>Indian cuisine is a diverse and flavorful culinary tradition encompassing a wide range of regional and traditional dishes. It's known for its use of spices, herbs, and locally available ingredients, resulting in a rich tapestry of flavors. The cuisine is influenced by various factors like climate, culture, and religious beliefs, leading to both vegetarian and non-vegetarian options</p>
              <img src="Screenshot 2025-06-03 165737.png" alt=" width= 200">
      <img src="Screenshot 2025-06-03 165753.png" alt=" width= 200">

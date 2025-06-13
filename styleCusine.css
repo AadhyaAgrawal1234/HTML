@@ -4,6 +4,9 @@
     border: 2px solid black;
 font-family: cursive;
 text-align: center;
+position: sticky;
+top: 0;
+z-index: 2;
 }
 #Header1{
  font-family: cursive;
