@@ -19,10 +19,10 @@
    <H2 class="indo">Different Indian Cuisines</H2>
   <h3 class="indo">Regional Cuisines:</h3>
    <ol>
- <li>North Indian Cuisine</li>
- <li>South-Indian Cuisine</li>
-<li>East Indian Cuisine </li>
-<li>West Indian Cuisine</li>
+ <li class="text">North Indian Cuisine</li>
+ <li class="text">South-Indian Cuisine</li>
+<li class="text">East Indian Cuisine </li>
+<li class="text">West Indian Cuisine</li>
 </ol>
 <H3 class="indo">Explaination on the above 4 Cusines:</H3>
 <h4><b >North Indian Cuisine:</b><br></h4>
@@ -39,12 +39,12 @@
 <p>Includes cuisines from regions like Gujarat, Maharashtra, and Goa, with dishes like seafood, vegetarian options, and Portuguese-influenced dishes. </p>
 <h3 class="indo">Beyond the regional divisions, Indian cuisine also encompasses: </h3>
     <ol>
-<li>Mughlai Cuisine</li>
-<li>Punjabi Cuisine</li>
-<li>Awadhi Cuisine</li>
-<li>Bihari Cuisine</li>
-<li>Kashmiri Cuisine</li>
-<li>Indian Chinese Cuisine</li>
+<li class="text">Mughlai Cuisine</li>
+<li class="text">Punjabi Cuisine</li>
+<li class="text">Awadhi Cuisine</li>
+<li class="text">Bihari Cuisine</li>
+<li class="text">Kashmiri Cuisine</li>
+<li class="text">Indian Chinese Cuisine</li>
 (and many more)
 </ol>
 <H3 class="indo">Explaination on the above 6 Cusines:</H3>
